@@ -24,3 +24,17 @@ tractography
 parahippocampal
 dMRI
 intra-regional
+dentate
+valenced
+PDS-Shirtcliff
+Magnetom
+Prisma
+coregistration
+FreeSurfer
+parcellation
+aparc
+aseg
+fMRIPrep
+MSTs
+RPEs
+FOV
